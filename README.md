@@ -1,16 +1,59 @@
-## Hi there 👋
+# Hi there, I'm Rigvida Modi 👋
 
-<!--
-**rigvidamodi/rigvidamodi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👨‍🎓 About Me
 
-Here are some ideas to get you started:
+🎓 B.Tech (Artificial Intelligence) Student
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 Passionate about Python, AI, and Software Development
+
+🌱 Currently learning Machine Learning, SQL, Git & GitHub
+
+🎯 Building projects to improve my programming and problem-solving skills
+
+---
+
+## 🚀 Tech Stack
+
+- Python 🐍
+- SQL
+- Git
+- GitHub
+- VS Code
+- Artificial Intelligence
+- Machine Learning (Learning)
+
+---
+
+## 📚 Currently Learning
+
+- Python Programming
+- Data Structures & Algorithms
+- Machine Learning
+- SQL
+- Git & GitHub
+
+---
+
+## 🎯 Goals for 2026
+
+- Build 20+ Python Projects
+- Learn Machine Learning
+- Improve DSA
+- Create an AI Portfolio
+- Get an Internship
+
+---
+
+## 📂 Projects
+
+🚧 Coming Soon...
+
+---
+
+## 📫 Connect with Me
+
+- LinkedIn: *https://www.linkedin.com/in/rigvida-modi-708b163a0/*
+
+---
+
+⭐ Thanks for visiting my GitHub profile!
